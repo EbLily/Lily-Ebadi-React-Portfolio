@@ -18,6 +18,25 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.wrapper {
+  background-color: #888;
+}
+
+.header {
+  border: 3px solid black;
+}
+
+.navbar {
+  display: flex;
+  justify-content: right;
+}
+
+.navbar .link {
+  color: white;
+  font-size: x-large;
+  margin-right: 20px;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
