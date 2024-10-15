@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Project from '../components/Project';
 
 // React often wants us to IMPORT the ASSEST First
-  import ssImg from '../assets/SS.png';
+import ssImg from '../assets/SS.png';
 import employeeTracker from '../assets/View_All_Department.png';
 import notetaker       from '../assets/notetaker.png';
 import socialEmployeeAPI from '../assets/ss.png';

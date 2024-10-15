@@ -1,10 +1,9 @@
-import React from 'react'
 import slackPic from '../assets/slack_pic.jpg';
 
 function About() {
   return (
     <>
-      <div>Lily Ebadi</div>
+      <h1>Lily Ebadi</h1>
       <section className="content">
         <img src={slackPic} alt="portfolio image" />
         <div>A Path to Web Development</div>
