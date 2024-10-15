@@ -19,7 +19,7 @@
 }
 
 .wrapper {
-  background-color: #888;
+  background-color:rgb(198, 103, 188);
 }
 
 .header {
@@ -34,8 +34,17 @@
 .navbar .link {
   color: white;
   font-size: x-large;
-  margin-right: 20px;
+  margin-right: 2rem;
 }
+
+/* .About {
+  font-family:'Times New Roman', Times, serif;
+  line-height: 1.5;
+  margin:0;
+  padding:0;
+  position:relative;
+  font-size:large
+} */
 
 @keyframes logo-spin {
   from {
@@ -57,5 +66,5 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #0b0909;
 }

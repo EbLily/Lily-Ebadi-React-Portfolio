@@ -4,7 +4,7 @@ import slackPic from '../assets/slack_pic.jpg';
 function About() {
   return (
     <>
-      
+      <div>Lily Ebadi</div>
       <section className="content">
         <img src={slackPic} alt="portfolio image" />
         <div>A Path to Web Development</div>
