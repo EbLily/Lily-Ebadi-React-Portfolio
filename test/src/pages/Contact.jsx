@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+// import { validateEmail}
 function Contact() {
 
   const [username, setUsername] = useState('');
