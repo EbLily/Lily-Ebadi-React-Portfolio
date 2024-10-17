@@ -69,6 +69,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 7. Create client folder and server folder
 
 ## Depolyed Link 
+lily-ebadi-react-portfolio.netlify.app
 
 ## Screenshots
 ![screenshot of my website](./test/src/assets/aboutme.png)
