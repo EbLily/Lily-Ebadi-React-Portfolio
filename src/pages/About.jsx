@@ -1,4 +1,4 @@
-import slackPic from '../assets/slack_pic.jpg';
+import slackPic from './assets/slack_pic.jpg';
 
 function About() {
   return (

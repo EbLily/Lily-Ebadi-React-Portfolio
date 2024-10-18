@@ -72,9 +72,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 [Deployed App](https://lily-ebadi-react-portfolio.netlify.app/)
 
 ## Screenshots
-![screenshot of my website](./test/src/assets/aboutme.png)
-![screenshot of my  website](./test/src/assets/contace.png)
-![screenshot of my website](./test/src/assets/reactportfolio.0.png)
+![screenshot of my website](./src/assets/aboutme.png)
+![screenshot of my  website](./src/assets/contace.png)
+![screenshot of my website](./src/assets/reactportfolio.0.png)
 
 ## built With 
 React : 18.3.1
